@@ -1,10 +1,7 @@
-# 《Learn C The Hard Way》
-# 《苦学C语言》
-## Learn C The Hard Way一书的中文翻译版 ##
-
-----------------------------------
-
 ![logo](./logo.png)
+# 《Learn C The Hard Way》中文翻译版
+
+
 # 目录 #
 
 ----------------------------------
