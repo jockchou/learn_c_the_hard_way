@@ -1,5 +1,5 @@
 ![logo](./logo.png)
-# 《Learn C The Hard Way》中文翻译版
+# 《Learn C The Hard Way》中文翻译
 
 
 # 目录 #
@@ -49,7 +49,7 @@
 - [练习 38: HashMap算法][38]
 - [练习 39: 字符串算法][39]
 - [练习 40: 二叉查找树][40]
-- [练习 41: 使用Cachegrind和Callgrind进行性能调优][41]
+- [练习 41: 使用Cachegrind和Callgrind调优][41]
 - [练习 42: 栈与队列][42]
 - [练习 43: 一个简单的统计引擎][43]
 - [练习 44: RingBuffer][44]
