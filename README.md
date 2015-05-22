@@ -1,5 +1,6 @@
 ![logo](./logo.png)
 # 《Learn C The Hard Way》中文翻译
+交流QQ群：84692078
 
 
 # 目录 #
